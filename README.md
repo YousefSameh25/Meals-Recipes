@@ -2,7 +2,7 @@
 
 ## Description
 
-
+The Meals Recipes app offers diverse meal categories, customizable filters, and detailed ingredient lists, and cooking instructions. Developed with Flutter and Dart, it follows an OOP approach and employs simple data structures for efficiency.
 
 ## Application Images
 
